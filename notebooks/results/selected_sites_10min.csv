@@ -1,0 +1,12 @@
+addr:housenumber,name,operator,shop,addr:city,addr:street,brand,brand:wikidata,brand:wikipedia,opening_hours,operator:wikidata,operator:wikipedia,payment:coins,payment:credit_cards,payment:mastercard,payment:notes,payment:visa,phone,website,note,organic,check_date,name:it,addr:postcode,alt_name,branch,payment:cash,wheelchair,toilets:wheelchair,name:en,level,office,toilets,payment:mobile_money,payment:mpesa,email,payment:telephone_cards,opening_hours:covid19,condition,fee,image,operational_status,operator:funding,operator:type,description,internet_access,internet_access:fee,payment:cards,payment:debit_cards,source,payment:visa_debit,nodes,building,building:colour,building:levels,roof:colour,wikidata,wikipedia,disused,smoking,noaddress,layer,start_date,landuse,payment:app,ways,type,id,scenario_min
+,,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0055,10
+,Mini price supermarket,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0060,10
+,Double Touch,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0070,10
+,Muthaiga Mini Market,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0108,10
+"Langata Rd, Nairobi",Mbandu Complex,,mall,Nairobi,Langata Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0119,10
+,Lillies Supermarket,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0125,10
+,Quickmart,,supermarket,Nairobi,Kangundo Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0142,10
+,Waecon,,supermarket,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,s0202,10
+,Karen Square,,mall,Nairobi,Langata Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[3519594898, 3519594899, 3519594900, 3519594901, 3519594902, 3519594903, 3519594904, 3519594898]",yes,,,,,,,,,,,,,,,s0315,10
+,Southfield Mall,,mall,Nairobi,Airport North Road,,,,Mo-Su 07:30-22:00,,,,,,,,,https://www.southfieldmall.co.ke/,,,,,"P.O.Box 18628-00500, Nairobi, Kenya,",,,,,,,,,,,,,,,,,,,,,,,,,,,,"[6208216876, 6208216877, 6208216878, 9867106387, 9867106388, 13036834096, 6208216879, 6208216876]",yes,,,,,,,,,,,,,,,s0352,10
+,Naivas Embakassi,,supermarket,,,Naivas,Q18379067,,Mo-Su 08:00-22:00,,,,yes,,,,,,,,,,,,,yes,,,,,,,,,,,,,,,,,,,,,,yes,,,"[10132613367, 10132613368, 10132613369, 10132613370, 10132613367]",yes,,2,,,,,,,,,,yes,,,s0382,10
