@@ -1,0 +1,12 @@
+osmnx>=1.9.3
+geopandas
+shapely
+pyproj
+rtree
+folium
+pyomo
+networkx
+highspy; platform_system != "Windows" or platform_machine != "ARM64"
+pandas
+numpy
+matplotlib
